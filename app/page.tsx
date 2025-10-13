@@ -297,7 +297,7 @@ function Contact() {
     <section className="py-20 px-6 text-center max-w-xl mx-auto">
       <h2 className="text-3xl font-bold mb-6">Let&apos;s get in touch!</h2>
       <h3 className="text-xl mb-6">kooohhli[at]gmail.com</h3>
-      <h3 className="text-xl mb-6"><a href="https://linkedin.com/in/siddharth-kohli">Linkedin</a></h3>
+      <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="siddharth-kohli" data-version="v1"><a className="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/siddharth-kohli?trk=profile-badge">Siddharth Kohli</a></div>
     </section>
   );
 }
