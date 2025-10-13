@@ -24,7 +24,7 @@ export function Header() {
 
   const navigation = [
     { name: 'Home', href: '#home', icon: Home },
-    { name: 'About', href: '#nonprofit', icon: User },
+    { name: 'Firebreaker', href: '#nonprofit', icon: User },
     { name: 'Skills', href: '#skills', icon: Code },
     { name: 'Projects', href: '#projects', icon: Briefcase },
     { name: 'Contact', href: '#contact', icon: Mail },
@@ -97,14 +97,14 @@ export function Header() {
           </nav>
 
           {/* CTA Button (Desktop) */}
-          <div className="hidden md:block">
+          {/* <div className="hidden md:block">
             <Button
               onClick={() => handleNavigation('#contact')}
               className="bg-primary hover:bg-primary/90"
             >
               Get In Touch
             </Button>
-          </div>
+          </div> */}
 
           {/* Mobile Menu Button */}
           <Button

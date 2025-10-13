@@ -15,9 +15,9 @@ import { Footer } from "@/components/Footer";
 const DATA = {
   name: "Siddharth Kohli",
   
-  role: "Santa Rosa, California",
+  role: "High School Student",
   
-  tagline: "Working to align nature and the humanities.",
+  tagline: "Hi! I'm Sid. I'm a student from Santa Rosa, California, and I am interested in the humanities, fire prevention, and data-driven engineering.",
   
   email: "kooohhli@gmail.com",
 
@@ -295,7 +295,7 @@ function Projects() {
 function Contact() {
   return (
     <section className="py-20 px-6 text-center max-w-xl mx-auto">
-      <h2 className="text-3xl font-bold mb-6">Let's get in touch!</h2>
+      <h2 className="text-3xl font-bold mb-6">Let&apos;s get in touch!</h2>
       <h3 className="text-xl mb-6">kooohhli[at]gmail.com</h3>
       <h3 className="text-xl mb-6"><a href="https://linkedin.com/in/siddharth-kohli">Linkedin</a></h3>
     </section>

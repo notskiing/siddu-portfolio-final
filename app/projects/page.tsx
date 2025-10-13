@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { ArrowLeft } from "lucide-react";
+import Link from "next/link";
 
 const ALL_PROJECTS = [
   {
@@ -75,9 +76,9 @@ export default function ProjectsPage() {
           <div className="mb-12">
             <div className="flex items-center space-x-4 mb-6">
               <Button variant="outline" size="icon" asChild>
-                <a href="/#projects">
+                <Link href="/#projects">
                   <ArrowLeft className="h-4 w-4" />
-                </a>
+                </Link>
               </Button>
               <div>
                 <h1 className="text-4xl md:text-5xl font-bold">All Projects</h1>
