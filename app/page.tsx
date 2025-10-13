@@ -49,7 +49,7 @@ const DATA = {
       id: "firebreaker",
       title: "Firebreaker", 
       description: "Precise threat detection system for fire threats using visual-language modeling of day-to-day imagery in local communities.", 
-      link: "firebreaker.org",
+      link: "https://firebreaker.org",
       image: "/images/tubbsimpact.jpg"
     },
     { 
@@ -63,7 +63,7 @@ const DATA = {
       id: "swapz",
       title: "Swapz: Dress Reusal Platform for High Schoolers", 
       description: "Online platform for students to share their dresses/clothes from dances in order to reduce waste.", 
-      link: "swapz.up.railway.app",
+      link: "https://swapz.up.railway.app",
       image: "/images/swapz-img.png"
     },
   ],
