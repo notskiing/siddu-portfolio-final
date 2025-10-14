@@ -314,7 +314,11 @@ export default function Page() {
             <Hero />
           </section>
           
-          <ImageCarousel images={DATA.carouselImages} />
+          {/* <ImageCarousel images={DATA.carouselImages} /> */}
+
+          <section id="projects">
+            <Projects />
+          </section>
           
           <section id="skills">
             <Skills />
@@ -322,10 +326,6 @@ export default function Page() {
           
           <section id="nonprofit">
             <NonprofitFeature />
-          </section>
-          
-          <section id="projects">
-            <Projects />
           </section>
           
           <section id="contact">
