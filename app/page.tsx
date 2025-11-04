@@ -39,7 +39,7 @@ const DATA = {
   nonprofitFeature: {
     title: "Firebreaker",
     subtitle: "FEATURED",
-    description: "Firebreaker is a not-for-profit engineering consultancy dedicated to creating preventive solutions for fire management using the latest in visual-language modeling to clean and decipher images for governments in Northern California.",
+    description: "Firebreaker is a not-for-profit engineering consultancy dedicated to creating preventive solutions for fire management using the latest in vision-language modeling to clean and decipher images for governments in Northern California.",
     image: "/images/nonprofit-hero.png",
     learnMoreUrl: "https://firebreaker.org",
   },
@@ -48,7 +48,7 @@ const DATA = {
     { 
       id: "firebreaker",
       title: "Firebreaker", 
-      description: "Precise threat detection system for fire threats using visual-language modeling of day-to-day imagery in local communities.", 
+      description: "Precise threat detection system for fire threats using vision-language modeling of day-to-day imagery in local communities.", 
       link: "https://firebreaker.org",
       image: "/images/tubbsimpact.jpg"
     },

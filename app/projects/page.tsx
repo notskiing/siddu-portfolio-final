@@ -12,7 +12,7 @@ const ALL_PROJECTS = [
   {
     id: "firebreaker",
     title: "Firebreaker",
-    description: "Precise threat detection system for fire threats using visual-language modeling of day-to-day imagery in local communities.",
+    description: "Precise threat detection system for fire threats using vision-language modeling of day-to-day imagery in local communities.",
     image: "images/tubbsimpact.jpg",
     category: "Fire Management",
     year: "2023-",
@@ -21,7 +21,7 @@ const ALL_PROJECTS = [
   {
     id: "fireresearch",
     title: "Fire Spread Prediction Research using Machine Learning",
-    description: "Testing visual language models for predicting fire spread patterns. Planned publication by the end of 2025.",
+    description: "Testing vision-language models for predicting fire spread patterns. Planned publication by the end of 2025.",
     image: "images/goes.jpg",
     category: "Fire Management",
     year: "2025-",
