@@ -17,7 +17,7 @@ const DATA = {
   
   role: "High School Student",
   
-  tagline: "Hi! I'm Sid. I'm a student from Santa Rosa, California, and I am interested in the humanities, fire prevention, and data-driven engineering.",
+  tagline: "Hi! I'm Sid. I'm a student from Santa Rosa, California, and I am interested in the humanities, fire prevention, and developments within data-driven systems.",
   
   email: "kooohhli@gmail.com",
 
