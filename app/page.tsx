@@ -60,11 +60,11 @@ const DATA = {
       image: "/images/chessboard.jpg"
     },
     { 
-      id: "swapz",
-      title: "Swapz: Dress Reusal Platform for High Schoolers", 
+      id: "Flippo",
+      title: "Flippo: Dress Reusal Platform for High Schoolers", 
       description: "Online platform for students to share their dresses/clothes from dances in order to reduce waste.", 
-      link: "https://swapz.up.railway.app",
-      image: "/images/swapz-img.png"
+      link: "https://Flippo.up.railway.app",
+      image: "/images/Flippo-img.png"
     },
   ],
 };

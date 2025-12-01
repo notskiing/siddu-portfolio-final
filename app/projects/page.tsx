@@ -28,13 +28,13 @@ const ALL_PROJECTS = [
     link: "/projects/fireresearch"
   },
   {
-    id: "swapz",
-    title: "Swapz: Dress Reusal Platform for High Schoolers",
+    id: "Flippo",
+    title: "Flippo: Dress Reusal Platform for High Schoolers",
     description: "Online platform for students to share their dresses/clothes from dances in order to reduce waste.",
-    image: "images/swapz-img.png",
+    image: "images/Flippo-img.png",
     category: "Environmental",
     year: "2023-24",
-    link: "https://swapz.up.railway.app/"
+    link: "https://Flippo.up.railway.app/"
   },
   {
     id: "chessrobot",
